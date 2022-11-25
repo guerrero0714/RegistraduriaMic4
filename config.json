@@ -1,0 +1,7 @@
+{
+  "url-backend": "127.0.0.1",
+  "port": 9999,
+
+  "mongo_uri_server": "mongodb+srv://user-back-votaciones:123@cluster0.eth6r2c.mongodb.net/db-registro-votaciones?retryWrites=true&w=majority",
+  "name-db": "db-registro-votaciones"
+}
